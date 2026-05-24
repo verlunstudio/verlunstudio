@@ -142,7 +142,7 @@ El cliente recibe código fuente completo y documentación legible — no creamo
       <strong>Angel De La Torre</strong><br>
       <em>Cofundador · Representante Legal</em><br><br>
       Desarrollo · Producto · Diseño · Finanzas<br>
-      <a href="https://github.com/iAngelManuel">GitHub</a> · <a href="https://linkedin.com/in/verlunstudio">LinkedIn</a>
+      <a href="https://github.com/iangelmanuel">GitHub</a> · <a href="https://linkedin.com/in/iangelmanuel">LinkedIn</a>
     </td>
   </tr>
 </table>
